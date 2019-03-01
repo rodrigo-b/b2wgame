@@ -1,0 +1,2 @@
+INSERT INTO PLANET  (ID,NAME,CLIMATE,TERRAIN,TIMES_IN_MOVIE) VALUES (1,'Alderaan', 'temperate','grasslands, mountains',2);
+INSERT INTO PLANET  (ID,NAME,CLIMATE,TERRAIN,TIMES_IN_MOVIE) VALUES (2,'Kamino', 'temperate','ocean',3);
